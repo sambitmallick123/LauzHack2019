@@ -1,0 +1,2 @@
+https://github.com/WannaFIy/mask_AD/releases/download/AD/mask_rcnn_ad.h5
+https://github.com/WannaFIy/mask_AD/releases/download/AD/regions.csv
